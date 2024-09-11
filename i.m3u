@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:0,Tapesh Iran
+#EXTVLCOPT:network-caching=1000
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:0,ITN (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:0,Omide Iran (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:0,Pars
+#EXTVLCOPT:network-caching=1000
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:0,Manoto
+#EXTVLCOPT:network-caching=1000
+https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:0,iFilm 2
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
+#EXTINF:0,iFilm Arabic
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:0,iFilm English
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
+#EXTINF:0,iFilm Persian
+#EXTVLCOPT:network-caching=1000
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
+#EXTINF:0,Iran International (1080p)
+#EXTVLCOPT:network-caching=1000
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:0,Iran Jewish TV (720p)
+#EXTVLCOPT:network-caching=1000
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+#EXTINF:0,Iran Press (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://ip2stream.iranpress.com/hls/ip2.m3u8
+#EXTINF:0,IRIB1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:0,IRINN (540p)
+#EXTVLCOPT:network-caching=1000
+https://live.aionet.ir/hls/irinn/irinn.m3u8
+#EXTINF:0,Persiana HD
+#EXTVLCOPT:network-caching=1000
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Music
+#EXTVLCOPT:network-caching=1000
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:0,PMC (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.pmchd.live/hls/stream.m3u8
