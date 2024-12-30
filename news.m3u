@@ -1,1 +1,75 @@
+#EXTM3U
+#EXTINF:18,Iran Intl Live
+https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA (DADDY LIVE)",CNN
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium345/index.m3u8
+
+#EXTINF:7200,BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:25,BBC World News 1
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
+#EXTINF:60,BBC World News 2
+#EXTVLCOPT:network-caching=1000
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:25,DW Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:25,DW Deutsche Welle 2
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:25,Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+#EXTINF:25,Euronews
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
+#EXTINF:32,ABC News New York 
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:25,NBC New York News
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
+#EXTINF:60, US: AL JAZEERA EN
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+
+#EXTINF:32,ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:60,ABC 4 Pittsburg PA (WTAE) (720p)
+#EXTVLCOPT:network-caching=1000
+https://lnc-wtae.tubi.video/playlist.m3u8
+#EXTINF:160,PBS National East (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:60,ABC 2 Baltimore MD (WMAR) (720p)
+#EXTVLCOPT:network-caching=1000
+https://lnc-wmar.tubi.video/playlist.m3u8
+#EXTINF:60,ABC 4 Pittsburg PA (WTAE) (720p)
+#EXTVLCOPT:network-caching=1000
+https://lnc-wtae.tubi.video/playlist.m3u8
+#EXTINF:35,ABC 7 Los Angeles CA (KABC-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:32,ABC News New York NY (WABC-TV) (720p)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:25,NBC New York News
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
+#EXTINF:25,CBS News 24/7
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+#EXTINF:104,CBS News New York
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
+#EXTINF:102,CBS News Pittsburgh
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0e061b0-8217-4bae-9a09-61f828338bbc
+#EXTINF:160,PBS National East (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
