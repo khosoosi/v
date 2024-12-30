@@ -14,15 +14,8 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:20,Showtime Women East
 #EXTVLCOPT:network-caching=1000
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:18,Best Drama Movies (1080p)
-#EXTVLCOPT:network-caching=1000
-https://lte.wiseplayout.com/WiseM3U8_16/master.m3u8
-#EXTINF:18,Best Action Movies (1080p)
-#EXTVLCOPT:network-caching=1000
-https://lte.wiseplayout.com/WiseM3U8_14/master.m3u8
-#EXTINF:18,Best Classic Movies (1080p)
-#EXTVLCOPT:network-caching=1000
-https://lte.wiseplayout.com/WiseM3U8_15/master.m3u8
+
+
 #EXTINF:18,Best Thriller Movies (1080p)
 #EXTVLCOPT:network-caching=1000
 https://lte.wiseplayout.com/WiseM3U8_17/master.m3u8
