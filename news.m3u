@@ -4,6 +4,10 @@
 https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:18,CNN International
+https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA (DADDY LIVE)",CNN
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
