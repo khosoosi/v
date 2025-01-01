@@ -3,10 +3,7 @@
 #EXTINF:18,Iran Intl Live
 https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA (DADDY LIVE)",CNN
-#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
-#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTINF:7200, CNN International
 https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 
 
