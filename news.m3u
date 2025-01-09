@@ -3,7 +3,7 @@
 #EXTINF:18,Iran Intl Live
 https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
 
-#EXTINF:23,CNNInternational
+#EXTINF:23,CNN
 #EXTVLCOPT:network-caching=1000
 https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 
