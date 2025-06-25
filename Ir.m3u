@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:594,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:18,Iran Intl Live
+https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
+#EXTINF:0,BBC
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:1800, BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:60,AL JAZEERA EN
+https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
+#EXTINF:100,VOA 
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:1800,DW 1
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+
+#EXTINF:60,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:1800,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:1800,France 24
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+#EXTINF:25,Sky News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+#EXTINF:25,Euronews
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
+
+#EXTINF:18,Iran International
+https://live.playstop.me/LS-63503-4/tracks-v2a1/mono.m3u8
+
+#EXTINF:80,iFilm
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:80,Channel One
+https://livestream.5centscdn.com/ch1app/4e0ea63032b868402b61d3a35e7ca168.sdp/playlist.m3u8
+
+
+#EXTINF:80,Tapesh
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:80,ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:60,Pars
+#EXTVLCOPT:network-caching=1000
+https://parshls.wns.live/hls/stream.m3u8
+
+#EXTINF:64,Omid e Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:29,AFN
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:64,Persiana HD
+#EXTVLCOPT:network-caching=1000
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Music
+#EXTVLCOPT:network-caching=1000
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:594,Radio Hamrah
+http://stream.radiohamrah.com/RadioHamrahMP3
+
