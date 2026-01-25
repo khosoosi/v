@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:30,PBC Tapesh TV (720p)
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:79,ITN
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:100,Omid e Iran
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:100,Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:29,AFN
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:80,iFilm
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:80,iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:60,Ekran Movies
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+#EXTINF:100,Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:100,Persiana Music
+#EXTVLCOPT:network-caching=1000
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:594,Radio Hamrah
+http://stream.radiohamrah.com/RadioHamrahMP3
+#EXTINF:100,Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana HD
+#EXTVLCOPT:network-caching=1000
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Reality
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:100,Radio Javan TV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
