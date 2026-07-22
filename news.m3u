@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:18,Iran Intl Live
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:CNN UHD (BK)
+#EXTINF:25,CNN UHD (BK)
 http://line.dndnscloud.ru/live/954eb06908/1f1425cb80b1/551999.ts
 #EXTINF:25,CNN Headlines International 1
 http://line.dndnscloud.ru/live/954eb06908/1f1425cb80b1/551998.ts
