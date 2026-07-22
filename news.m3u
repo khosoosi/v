@@ -1,8 +1,13 @@
 #EXTM3U
 #EXTINF:18,Iran Intl Live
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:597, CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:CNN UHD (BK)
+http://line.dndnscloud.ru/live/954eb06908/1f1425cb80b1/551999.ts
+#EXTINF:25,CNN Headlines International 1
+http://line.dndnscloud.ru/live/954eb06908/1f1425cb80b1/551998.ts
+#EXTINF:25,CNN Headlines International 2
+http://line.dndnscloud.ru/live/954eb06908/1f1425cb80b1/577219.ts
+
 #EXTINF:7200,BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:1800,DW Deutsche Welle
